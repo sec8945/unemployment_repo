@@ -6,5 +6,5 @@ plotly
 pandas
 plotly
 python-dotenv
-
+python-dotenv
 pytest
