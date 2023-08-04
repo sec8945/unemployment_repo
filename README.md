@@ -49,3 +49,8 @@ FLASK_APP=web_app flask run
 # ... or try a ".env" file approach
 export FLASK_APP=web_app
 flask run
+
+
+## Deployment
+
+## [Deployment Guide](/DEPLOYING.md)
